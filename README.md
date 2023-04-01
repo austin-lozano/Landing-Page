@@ -1,1 +1,1 @@
-# Landing-Page
+For my first big project, I will be laying out an entire webpage! So far, I've learned the basics of HTML, CSS, and Flexbox. I will be combining my knowledge of all these tools to get this project done. 
