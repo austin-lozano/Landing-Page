@@ -105,3 +105,32 @@ img {
     gap: 5px;
     padding: 20px;
 }
+
+.three {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-container {
+    width: 830px;
+    padding: 90px;
+}
+
+.quote {
+   font-size: 36px;
+    font-family: sans-serif;
+    color: #1F2937;
+   font-weight: 100;
+}
+
+.person {
+    text-align: right;
+    justify-content: flex-end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
