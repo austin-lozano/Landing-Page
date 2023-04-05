@@ -163,3 +163,11 @@ img {
 .bottom {
     border: 1px solid white;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 30px;
+}
