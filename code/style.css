@@ -134,3 +134,32 @@ img {
     font-weight: bold;
 }
 
+.four {
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 45px;
+    width: 835px;
+    border-radius: 8px;
+}
+
+.cta {
+    font-family: sans-serif;
+    color: #E5E7EB;
+}
+
+.cta-t {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.bottom {
+    border: 1px solid white;
+}
